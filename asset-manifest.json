@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/isyanworld/static/css/main.dc5b9d9b.css",
+    "main.js": "/isyanworld/static/js/main.55589650.js",
+    "static/media/seronym.webp": "/isyanworld/static/media/seronym.303f26326f0c2c40ab94.webp",
+    "static/media/cemo.webp": "/isyanworld/static/media/cemo.8f83b999654fdf8327b2.webp",
+    "index.html": "/isyanworld/index.html",
+    "main.dc5b9d9b.css.map": "/isyanworld/static/css/main.dc5b9d9b.css.map",
+    "main.55589650.js.map": "/isyanworld/static/js/main.55589650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc5b9d9b.css",
+    "static/js/main.55589650.js"
+  ]
+}
